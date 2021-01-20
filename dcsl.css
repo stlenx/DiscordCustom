@@ -548,7 +548,7 @@ div.unread-mentions-indicator-bottom {
     background: rgba(58, 113, 193, 0.15) !important;
 }
 
-.wrapper-1Rf91z{width: 126px;}
+.wrapper-1Rf91z{width: 400px;}
 .wrapper-1Rf91z .scroller-wrap{width: 150px;}
 .wrapper-1Rf91z .scroller-2TZvBN {
     display: flex;
@@ -1964,7 +1964,7 @@ padding: 0 !important;
 .wrapper-1Rf91z .scroller-2TZvBN > div[aria-label="Servers"] {
     display: flex;
     flex-direction: row;
-    flex-flow: row;
+    flex-flow: row wrap;
 }
 
 .wrapper-1Rf91z .scroller-2TZvBN > div {
