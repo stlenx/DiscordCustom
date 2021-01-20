@@ -755,16 +755,16 @@ div.unread-mentions-indicator-bottom {
 
 @keyframes notrainbow {
     0% {
-        -webkit-filter: hue-rotate(0);
-        -moz-filter: hue-rotate(0);
-        -ms-filter: hue-rotate(0);
-        filter: hue-rotate(0);
+        -webkit-filter: hue-rotate(50deg);
+        -moz-filter: hue-rotate(50deg);
+        -ms-filter: hue-rotate(50deg);
+        filter: hue-rotate(50deg);
     }
     100% {
-        -webkit-filter: hue-rotate(360deg);
-        -moz-filter: hue-rotate(360deg);
-        -ms-filter: hue-rotate(360deg);
-        filter: hue-rotate(360deg);
+        -webkit-filter: hue-rotate(75deg);
+        -moz-filter: hue-rotate(75deg);
+        -ms-filter: hue-rotate(75deg);
+        filter: hue-rotate(75deg);
     }
 }
 
