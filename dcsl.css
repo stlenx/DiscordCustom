@@ -1964,7 +1964,7 @@ padding: 0 !important;
 .wrapper-1Rf91z .scroller-2TZvBN > div[aria-label="Servers"] {
     display: flex;
     flex-direction: row;
-    flex-flow: row wrap;
+    flex-flow: row;
 }
 
 .wrapper-1Rf91z .scroller-2TZvBN > div {
