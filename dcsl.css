@@ -1964,7 +1964,6 @@ padding: 0 !important;
 .wrapper-1Rf91z .scroller-2TZvBN > div[aria-label="Servers"] {
     display: flex;
     flex-direction: column-reverse;
-    flex-flow: row wrap;
 }
 
 .wrapper-1Rf91z .scroller-2TZvBN > div {
