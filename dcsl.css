@@ -681,7 +681,7 @@ div.unread-mentions-indicator-bottom {
 }
 
 .wrapper-1Rf91z .scroller-wrap {
-    width: 300px;
+    width: 136px;
 }
 
 .channels-Ie2l6A {
@@ -1963,7 +1963,7 @@ padding: 0 !important;
 
 .wrapper-1Rf91z .scroller-2TZvBN > div[aria-label="Servers"] {
     display: flex;
-    flex-direction: row;
+    flex-direction: column-reverse;
     flex-flow: row wrap;
 }
 
