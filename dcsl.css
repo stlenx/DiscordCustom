@@ -761,10 +761,10 @@ div.unread-mentions-indicator-bottom {
         filter: hue-rotate(50deg);
     }
     100% {
-        -webkit-filter: hue-rotate(75deg);
-        -moz-filter: hue-rotate(75deg);
-        -ms-filter: hue-rotate(75deg);
-        filter: hue-rotate(75deg);
+        -webkit-filter: hue-rotate(50deg);
+        -moz-filter: hue-rotate(50deg);
+        -ms-filter: hue-rotate(50deg);
+        filter: hue-rotate(50deg);
     }
 }
 
